@@ -1,0 +1,3 @@
+<h1>Mega Fire APK</h1>
+<p> I made a APK file for Mega Fire a free manga reading site users can read manga using the app without the need of url. I use <b>Cordova</b> to make this apk to be hones this isn't a app it's just a site that redirect users to legit megafire.to in a virtual browser for android and i'm just started learning cordova so this was my first project i made using chatgpt so i can get some idea how does it work soon i'll make the same but for my previous project bullyflix by that users can watch movies and na i'm not gona redirect users to my legit site i'll make everyting from scratch </p>
+
